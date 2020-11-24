@@ -1,6 +1,0 @@
-\ TODO
-\ forth (GNU Forth aka gForth)
-\ takes in the users name and says hello
-\ to run: gforth forth.fs
-." Enter your name: "
-accept
