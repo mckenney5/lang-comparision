@@ -1,4 +1,4 @@
-# Python 3
+# Python 3.8
 # takes the users name and says hello
 # to run: python3 python.py
 
